@@ -2,7 +2,7 @@
 
 ## **Employees Data Analysis Project**
 
-### Summary**
+### **Summary**
 The Employees Data Analysis Project is a Power BI-based solution designed to provide actionable insights into employee performance, demographics, and organizational metrics. It empowers HR teams and managers to make data-driven decisions to enhance productivity and engagement.
 
 ---
@@ -17,7 +17,6 @@ The Employees Data Analysis Project is a Power BI-based solution designed to pro
 
 ### **Technologies Used**
 - **Power BI**: For data modeling, visualization, and interactive dashboards.
-- **SQL**: For querying and processing the raw data.
 - **Excel**: For data preparation and initial processing.
 - **DAX (Data Analysis Expressions)**: For advanced calculations and measures in Power BI.
 
@@ -65,6 +64,3 @@ To run this project, ensure you have the following:
 - Add support for real-time data streaming.
 - Include advanced filters for more granular analysis.
 
----
-
-Would you like to adjust this or focus on any specific area in more detail?
