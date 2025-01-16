@@ -1,5 +1,4 @@
 # Atliq-HR_Data_Analysis Using POWER BI
-### HR Analysis on Employee's Data ("Atliq")
 
 ## **Employees Data Analysis Project**
 
