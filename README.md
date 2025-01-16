@@ -47,7 +47,7 @@ To run this project, ensure you have the following:
 
 ### **How to Use**
 1. Clone the repository to your local machine.
-2. Open the `.pbix` file in Power BI Desktop.
+2. Open the `HR Data Analysis Project.pbix` file in Power BI Desktop.
 3. Update the data source paths, if required.
 4. Refresh the dataset to load the latest data.
 5. Explore the dashboards and visualizations interactively.
