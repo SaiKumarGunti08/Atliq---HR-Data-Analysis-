@@ -55,7 +55,6 @@ To run this project, ensure you have the following:
 ---
 
 ### **Future Enhancements**
-- Integrate machine learning models for predictive analytics, such as attrition prediction.
 - Add support for real-time data streaming.
 - Include advanced filters for more granular analysis.
 
